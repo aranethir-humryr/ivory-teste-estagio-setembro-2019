@@ -1,0 +1,11 @@
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\bin\Debug\netcoreapp2.2\Q2.deps.json
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\bin\Debug\netcoreapp2.2\Q2.runtimeconfig.json
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\bin\Debug\netcoreapp2.2\Q2.runtimeconfig.dev.json
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\bin\Debug\netcoreapp2.2\Q2.dll
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\bin\Debug\netcoreapp2.2\Q2.pdb
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\obj\Debug\netcoreapp2.2\Q2.csprojAssemblyReference.cache
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\obj\Debug\netcoreapp2.2\Q2.csproj.CoreCompileInputs.cache
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\obj\Debug\netcoreapp2.2\Q2.AssemblyInfoInputs.cache
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\obj\Debug\netcoreapp2.2\Q2.AssemblyInfo.cs
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\obj\Debug\netcoreapp2.2\Q2.dll
+C:\Users\arane\OneDrive\Development & Coding\Code Factory\C# Development and Studies\Q2\obj\Debug\netcoreapp2.2\Q2.pdb
